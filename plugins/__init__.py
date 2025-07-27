@@ -1,4 +1,4 @@
-#(©)Codexbotz
+#(©)noorxd786
 #@iryme
 
 from aiohttp import web

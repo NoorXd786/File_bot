@@ -1,4 +1,4 @@
-#(©)CodeXBotz
+#(©)noorxd786
 
 import os
 import asyncio

@@ -1,4 +1,4 @@
-#(©)CodeXBotz
+#(©)noorxd786
 
 import pymongo, os
 from pymongo import MongoClient
